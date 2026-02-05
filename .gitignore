@@ -1,0 +1,9 @@
+# Ignore local config with secrets
+src/config.json
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
